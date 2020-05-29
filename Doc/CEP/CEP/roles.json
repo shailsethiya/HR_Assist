@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5d4c1427537b2f53145513ed"},"is_active":true,"is_deleted":false,"role_name":"Administrator","createdAt":{"$date":{"$numberLong":"1565266983659"}},"updatedAt":{"$date":{"$numberLong":"1565266983659"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d4c1434537b2f53145513ee"},"is_active":true,"is_deleted":false,"role_name":"Supervisor","createdAt":{"$date":{"$numberLong":"1565266996737"}},"updatedAt":{"$date":{"$numberLong":"1565266996737"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5d4c1439537b2f53145513ef"},"is_active":true,"is_deleted":false,"role_name":"Candidate","createdAt":{"$date":{"$numberLong":"1565267001863"}},"updatedAt":{"$date":{"$numberLong":"1565267001863"}},"__v":{"$numberInt":"0"}}
